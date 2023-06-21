@@ -2,19 +2,19 @@
 
   
 
-1. Introduction: 
+## 1. Introduction: 
 
 The objective of this project is to apply the knowledge and skills acquired throughout the course to build a multi-page website clone. The website to be cloned will be selected based on personal interest and relevance. This project aims to showcase proficiency in web development, including HTML, CSS, and JavaScript, while replicating the design, functionality, and user experience of the chosen website. 
 
   
 
-2. Project Scope: 
+## 2. Project Scope: 
 
 The scope of this project encompasses the development of a multi-page website that closely resembles the chosen website. The clone will include various pages, such as a homepage, product/service listings, about us, contact, and any other relevant pages present in the original website. The focus will be on replicating the overall visual appearance, layout, navigation, and functionality of the original website. 
 
   
 
-3. Objectives: 
+## 3. Objectives: 
 
 - Select a website for cloning: Identify a suitable website for replication based on personal interest, complexity, and relevance. 
 
@@ -34,13 +34,13 @@ The scope of this project encompasses the development of a multi-page website th
 
   
 
-4. Methodology: 
+## 4. Methodology: 
 
 The project will be divided into the following phases: 
 
   
 
-4.1. Planning and Research: 
+### 4.1. Planning and Research: 
 
 - Select a suitable website for cloning, considering personal interest and complexity. 
 
@@ -50,7 +50,7 @@ The project will be divided into the following phases:
 
   
 
-4.2. Design and Development: 
+### 4.2. Design and Development: 
 
 - Create a wireframe or mockup of the cloned website, ensuring it closely resembles the original website's layout and design. 
 
@@ -64,7 +64,7 @@ The project will be divided into the following phases:
 
   
 
-4.3. Testing and Refinement: 
+### 4.3. Testing and Refinement: 
 
 - Perform rigorous testing to identify and fix any bugs or issues in the cloned website. 
 
@@ -76,7 +76,7 @@ The project will be divided into the following phases:
 
   
 
-4.4. Deployment: 
+### 4.4. Deployment: 
 
 - Configure domain settings and deploy the website to make it publicly accessible. 
 
@@ -84,7 +84,7 @@ The project will be divided into the following phases:
 
   
 
-5. Deliverables: 
+## 5. Deliverables: 
 
 - Cloned multi-page website with a design closely resembling the chosen website. 
 
@@ -96,7 +96,7 @@ The project will be divided into the following phases:
 
   
 
-6. Conclusion: 
+## 6. Conclusion: 
 
 This project aims to demonstrate the ability to apply the acquired knowledge and skills 
 
